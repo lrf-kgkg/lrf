@@ -37,6 +37,7 @@ public class TestDome
 			per.setName ("уехЩ" );
 			per.setAge (-20);
 			per.tell();
+			system.out.println ("hello world") ;
 			return ;
 		}
 }
